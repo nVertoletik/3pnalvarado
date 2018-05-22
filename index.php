@@ -58,6 +58,8 @@
 
     <div>
     </div>
+
+    <iframe src="https://www.facebook.com/plugins/like.php?href=https%3A%2F%2Fes-la.facebook.com%2Ffca.unam.mx%2F&width=400&layout=standard&action=like&size=small&show_faces=true&share=true&height=80&appId" width="400" height="80" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowTransparency="true" allow="encrypted-media"></iframe>
     <footer>
           <div class="container-fluid espacio creditos">
  		 	 <a class="ligacreditos" href="contacto.php">Contacto</a>
